@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker_gpm" size="0.124000 0.124788" />
+  </Tracking>
+</QCARConfig>
